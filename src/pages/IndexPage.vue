@@ -25,10 +25,10 @@
         allow="encrypted-media" allowfullscreen>
       </iframe> -->
 
-      <iframe src="https://www.youtube.com/embed/KQo0WX6sOho?si=i2scKFXVnwOmdu7a"
+      <!-- <iframe src="https://www.youtube.com/embed/KQo0WX6sOho?si=i2scKFXVnwOmdu7a"
         style="  position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;" frameborder="0"
         allow="encrypted-media" allowfullscreen>
-      </iframe>
+      </iframe> -->
     </div>
 
     <AHeader text="How?" />

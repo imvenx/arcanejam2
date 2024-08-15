@@ -34,7 +34,7 @@
     <AHeader text="How?" />
 
     <p>
-      You could try to figure out by yourself how to communicate this devices, but if you want an out of the box
+      You could try to figure out by yourself (and you are free to do so if you want), but if you want an out of the box
       solution you can use <b> Arcanepad </b> which is a tool for Unity, Godot and Web that is super easy to use and
       allows you to get started in no time creating multi-device apps like the ones for this gamejam. You can create and
       publish your games, by creating an account here <a href="https://dev.arcanepad.com" target="_blank"

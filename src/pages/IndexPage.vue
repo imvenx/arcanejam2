@@ -98,7 +98,7 @@
         collaborating!
       </ul>
       <ul>
-        &#9670; There will be a hall of fame on Arcanepad.com or the ArcaneDocs for the winners of the first Arcanejam
+        &#9670; There will be a hall of fame on Arcanepad.com or the ArcaneDocs for the winners of the Arcanejam 2
         with a link to your itch.io profile.
       </ul>
       </p>

@@ -60,7 +60,7 @@ module.exports = configure(function (/* ctx */) {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      publicPath: '/arcanejam/',
+      publicPath: '/arcanejam2/',
       // analyze: true,
       // env: {},
       // rawDefine: {}

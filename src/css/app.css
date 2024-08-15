@@ -1,0 +1,15 @@
+/* app global css */
+
+body {
+  /* background-color: #000 !important; */
+  background-image: url('/images/stars.png') !important;
+}
+
+p {
+  font-size: 1.2rem;
+  color: rgb(180, 220, 240);
+}
+
+a {
+  color: cyan;
+}

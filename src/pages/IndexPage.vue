@@ -20,7 +20,12 @@
         src="https://www.youtube.com/embed/-B9HoCHmcl8?si=Jv1ABQ0ghYAkJL0t" title="YouTube video player" frameborder="0"
         allowfullscreen></iframe> -->
 
-      <iframe src="https://www.youtube.com/embed/-B9HoCHmcl8?si=Jv1ABQ0ghYAkJL0t"
+      <!-- <iframe src="https://www.youtube.com/embed/-B9HoCHmcl8?si=Jv1ABQ0ghYAkJL0t"
+        style="  position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;" frameborder="0"
+        allow="encrypted-media" allowfullscreen>
+      </iframe> -->
+
+      <iframe src="https://www.youtube.com/embed/KQo0WX6sOho?si=i2scKFXVnwOmdu7a"
         style="  position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;" frameborder="0"
         allow="encrypted-media" allowfullscreen>
       </iframe>
@@ -30,9 +35,10 @@
 
     <p>
       You could try to figure out by yourself how to communicate this devices, but if you want an out of the box
-      solution you can use <b> Arcanepad </b> which is a tool for Unity, Godot and Web that makes life easier when
-      creating multi-device apps like the ones for this gamejam. You can create and distribute games using Arcanepad <a
-        href="https://dev.arcanepad.com" target="_blank" style="text-wrap: nowrap;">https://dev.arcanepad.com</a>.
+      solution you can use <b> Arcanepad </b> which is a tool for Unity, Godot and Web that is super easy to use and
+      allows you to get started in no time creating multi-device apps like the ones for this gamejam. You can create and
+      publish your games, by creating an account here <a href="https://dev.arcanepad.com" target="_blank"
+        style="text-wrap: nowrap;">https://dev.arcanepad.com</a>.
     </p>
 
     <AHeader text="Really... How?" />

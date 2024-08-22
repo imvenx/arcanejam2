@@ -72,9 +72,9 @@
 
     <AHeader text="Rules" />
 
-    <p>&#9670; You need to provide instructions on how to install and play your game or if you are using Arcanepad you
-      need to upload it to dev.arcanepad.com</p>
     <p>&#9670; The game uses at least two different devices to work (Example: A controller and a viewer)</p>
+    <p>&#9670; If you are using Arcanepad you need to upload the game to dev.arcanepad.com. If you are doing it on your
+      own then please provide instructions on how to install and play your game. </p>
     <p>&#9670; The theme is free, you can do whatever you want</p>
     <p>&#9670; You own the rights of the game. </p>
     <p>&#9670; You agree that we can feature your game in videos and in the Arcanepad Home</p>

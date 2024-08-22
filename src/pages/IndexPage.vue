@@ -39,6 +39,11 @@
       allows you to get started in no time creating multi-device apps like the ones for this gamejam. You can create and
       publish your games, by creating an account here <a href="https://dev.arcanepad.com" target="_blank"
         style="text-wrap: nowrap;">https://dev.arcanepad.com</a>.
+      <br>
+      <br>
+      If you use Arcanepad then ideally you would upload it to dev.arcanepad.com so everyone can play it without having
+      to add it manually to they're library.
+      If your game is made with other means you need to provide instructions on how to play it.
     </p>
 
     <AHeader text="Really... How?" />
@@ -67,6 +72,8 @@
 
     <AHeader text="Rules" />
 
+    <p>&#9670; You need to provide instructions on how to install and play your game or if you are using Arcanepad you
+      need to upload it to dev.arcanepad.com</p>
     <p>&#9670; The game uses at least two different devices to work (Example: A controller and a viewer)</p>
     <p>&#9670; The theme is free, you can do whatever you want</p>
     <p>&#9670; You own the rights of the game. </p>
